@@ -12,7 +12,7 @@ assert sys.platform == "win32", "This script is for Windows only"
 
 # TODO: Set this to False if you don't want to print the output to console
 print_output = True
-# TODO: Set this to empty string if you want to save the output to decrypted.out
+# TODO: Output file name, set this to empty string if you don't want to save the output
 out_name = "decrypted.out"
 
 
