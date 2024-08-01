@@ -1,0 +1,180 @@
+c886e5c2213f2b69f87e5847f562230963d3897c  .instruments
+f91c443bcab7803f0e2141dc7937b1d784651342  Muse Brass\Bass Trombone\Bass Trombone.spx
+9745f6a24783df86a45f3046958b4bde9646ba72  Muse Brass\Bass Trombone\SFZ\Bass Trombone.sts
+0e27b8f235b64dc6410b31479d87ab77b2bbf16b  Muse Brass\Cimbasso\Cimbasso.spx
+b53acd00616948285260af59744a18c41af57c63  Muse Brass\Cimbasso\SFZ\Cimbasso.sts
+8fdce7c0418a3c941fecaa422583ae5214b0b7e4  Muse Brass\French Horn\French Horn.spx
+254f683af185aa7eceb0d2eae4c70f1ca7f15277  Muse Brass\French Horn\SFZ\French Horn.sts
+102067106dd2111fbca9d3e3aab191301e070566  Muse Brass\French Horns a6\French Horns a6.spx
+04b4f21c3ec9e2b8af8692e76ce816b621c2cb21  Muse Brass\French Horns a6\SFZ\French Horns a6.sts
+048c58311710879b00df07ff71a325fb1c9b4868  Muse Brass\Trombone\Trombone.spx
+e60f1c3c4760371f392c3f06a6a160eff6288edb  Muse Brass\Trombone\SFZ\Trombone.sts
+3e4d30943c3319c189d78f5e9c9b20054bcf82e8  Muse Brass\Trombones a3\Trombones a3.spx
+1cdf9c383e51c1bbc40b6a8a288c987f53e4bc2c  Muse Brass\Trombones a3\SFZ\Trombones a3.sts
+6fad0d85e6cddf9b34dde4f68cf0b5c5860b3abd  Muse Brass\Trumpet\Trumpet.spx
+d8c0655e9097d2ed0e52984d27cca56bfa3acabc  Muse Brass\Trumpet\SFZ\Trumpet.sts
+aecc846e1563404f963392278b84166deec17329  Muse Brass\Trumpets a4\Trumpets a4.spx
+1a38e0e68713fe5198b9f412824ff5b9d8df31a8  Muse Brass\Trumpets a4\SFZ\Trumpets a4.sts
+94a67534892ab83a36cf37674dc0880a666a9e84  Muse Brass\Tuba\Tuba.spx
+91c8e178254bb247e523a3a387d0eeb5cba8fa39  Muse Brass\Tuba\SFZ\Tuba.sts
+7df4fab30070b85e7dfb185655daa07f446649b8  Muse Choir\Altos\Altos.spx
+dd456e99c2db38dd4603e63fda3100d33a5af478  Muse Choir\Altos\SFZ\Altos.sts
+19e400a7125333fdd5b642678812ed094ca5078d  Muse Choir\Basses\Basses.spx
+fdb9b5f79063e0bce855d5c26850bb6403e1ce64  Muse Choir\Basses\SFZ\Basses.sts
+8d6e73baf5604a89a51791525fd9298a32f9eb16  Muse Choir\Full Choir\Full Choir.spx
+9959c7290bb0290670bb241e265244f2aa908c39  Muse Choir\Men\Men.spx
+b60d226ae6d8c1ba49c10a29669c6d3c1b0136f5  Muse Choir\Sopranos\Sopranos.spx
+14b2db0f4ed4363c5fdff10b889afc2d0992fb7d  Muse Choir\Sopranos\SFZ\Sopranos.sts
+83f109f75ea81830faa8f74956235c4bade55cca  Muse Choir\Tenors\Tenors.spx
+af8910476ca2374e83efbcd17f84bcfac95cb422  Muse Choir\Tenors\SFZ\Tenors.sts
+134bee4b2d5c7b5bf2985b75412cffe9fd3b67fd  Muse Choir\Women\Women.spx
+29937a98f6bddc728c1fc305e338ac654c65bbc4  Muse Guitars Vol 1\Acoustic Nylon\Acoustic Nylon.spx
+0f67c15dd1644631b5590690f15ea3751e006b35  Muse Guitars Vol 1\Acoustic Nylon\SFZ\Acoustic Nylon.sts
+c6956e283284cd070f5440c2382447b442aec853  Muse Guitars Vol 1\Acoustic Steel Picked\Acoustic Steel Picked.spx
+b410120f1b13106f212e4175aa5b2a85b56b75de  Muse Guitars Vol 1\Acoustic Steel Picked\SFZ\Acoustic Steel Picked.sts
+ac87174c94fc910351375040699cc234a83117a9  Muse Guitars Vol 1\Acoustic Steel Plucked\Acoustic Steel Plucked.spx
+8e3a10d98cebbd5615f5c23e707103179f2495f9  Muse Guitars Vol 1\Acoustic Steel Plucked\SFZ\Acoustic Steel Plucked.sts
+ebb56dc8b5d9c599af4a86b9172e5a228d26b365  Muse Guitars Vol 1\Electric Bass\Electric Bass.spx
+96c06ab7491c4ab9900dc2a67b5f49ddfb560e5e  Muse Guitars Vol 1\Electric Bass\SFZ\Electric Bass.sts
+73b2b5f4a1a2e2fd3a768e4210131843e57f0fe2  Muse Guitars Vol 1\Electric LP - Clean\Electric LP - Clean.spx
+83a76a6b9e114ac3e475ca6685e4decf773d6c18  Muse Guitars Vol 1\Electric LP - Clean\SFZ\Electric LP - Clean.sts
+127b434bb09e611be22436cac9a003cb210ace6c  Muse Guitars Vol 1\Electric LP - Heavy\Electric LP - Heavy.spx
+e532bbf83d75056050759b60b751ffed168f1d9a  Muse Guitars Vol 1\Electric LP - Lead\Electric LP - Lead.spx
+1fa6d8291736b8c24c06946d7aba678db35fecd0  Muse Guitars Vol 1\Electric SC - Clean\Electric SC - Clean.spx
+9cc1e07cd95b91491e3c254f4e97ee1317e2b244  Muse Guitars Vol 1\Electric SC - Clean\SFZ\Electric SC - Clean.sts
+3c4910480565c878e41d594e50af9e46fb4f4db4  Muse Guitars Vol 1\Electric SC - Heavy\Electric SC - Heavy.spx
+e1307359fe0df8d02c7c5fd70d52f3d2590d5153  Muse Guitars Vol 1\Electric SC - Lead\Electric SC - Lead.spx
+3e9af615e7c8fb483e18bfb3808a828486a067ba  Muse Harp\Harp\Harp.spx
+e7919e3222b39c62af3b2259b17fe6c9cce30b9b  Muse Harp\Harp\SFZ\Harp.sts
+9348cfdfad0d9b589174eb2a9d25aa56b02e21db  Muse Keys\Celesta\Celesta.spx
+bc0fb5d91e48675c322d4c7df4b7a3790b945673  Muse Keys\Celesta\SFZ\Celesta.sts
+a72e56885173ddc721dd6e69d1216df988722679  Muse Keys\Dream Piano\Dream Piano.spx
+232d7e6feda077fb7d3ae571c32fa0749904e0dc  Muse Keys\Dream Piano\SFZ\Dream Piano.sts
+f211946ef7f4b988914a15bc3282df8ff10b361e  Muse Keys\Hammond Organ\Hammond Organ.spx
+32cd4eeb526a3f77bed4f18279346df8b64f476c  Muse Keys\Hammond Organ\SFZ\Hammond Organ.sts
+f93af1f03901947debcfd4600b3b9ef71c68549d  Muse Keys\Harpsichord\Harpsichord.spx
+45faf1509f9c7e9a9dc06c6101e94eaf813e92a5  Muse Keys\Harpsichord\SFZ\Harpsichord.sts
+7f1addfa56dee2e587cc5bfc2522cdab104f3a79  Muse Keys\Piano\Piano.spx
+e7402de5525edacd26c1d26f6d9df1b3f0258067  Muse Keys\Piano\SFZ\Piano.sts
+70412c65c74fdef9a32a49917f274b80725ffc19  Muse Keys\Soft Piano\Soft Piano.spx
+88696b91d23360a6eb68c3d9126fdd70f0a054cb  Muse Keys\Soft Piano\SFZ\Soft Piano.sts
+a95065ec42890b818d911f4ac81400f50fa8fa9e  Muse Keys\Suitcase Piano\Suitcase Piano.spx
+7ba1451a7d13a370c48171ed693923897704c24c  Muse Keys\Suitcase Piano\SFZ\Suitcase Piano.sts
+33b9a3f27123c27578d14c0e09d79a98079b2edb  Muse Keys\Upright Piano\Upright Piano.spx
+c9ca0703c0e0ebec462135a7e9adfd735ffdf06c  Muse Keys\Upright Piano\SFZ\Upright Piano.sts
+f6fbbd732f4289308c7fbc8a1c7bf08dafc7b868  Muse Keys\Wurly 200A\Wurly 200A.spx
+1ccefafba3fab6d6017d364e39a05c51e5e393c7  Muse Keys\Wurly 200A\SFZ\Wurly 200A.sts
+33d05fcc3f65a20b710b6887634b42782a435dfc  Muse Percussion\Bass Drum\Bass Drum.spx
+4fcfeabb666da61f1734d80f1c9e2766997b7597  Muse Percussion\Bass Drum\SFZ\Bass Drum.sts
+8cae2b2fef56a80020f262891bd9eb9cfe239864  Muse Percussion\Bell Tree\Bell Tree.spx
+a39d26b70fe0d241a305dfa3d250b0f8f40da0f3  Muse Percussion\Bell Tree\SFZ\Bell Tree.sts
+6e5d0faa69d11dd9efcab83c68d41e4d23875d52  Muse Percussion\Bongos\Bongos.spx
+ed87071c6c109d985cf24887368a98f01b9fbe91  Muse Percussion\Bongos\SFZ\Bongos.sts
+f3fad3a3e915c090ed4a7a0cf31da5c0006097a5  Muse Percussion\Cabasa\Cabasa.spx
+ec1c02cfc215d83a5864614b9ccba355df8217b8  Muse Percussion\Cabasa\SFZ\Cabasa.sts
+51cf8c7b190dc483d15819291e67a81bc67ea598  Muse Percussion\Castanets\Castanets.spx
+de6e62ca87b1136c5eb05dde93c94f23a5852b78  Muse Percussion\Castanets\SFZ\Castanets.sts
+7dcb59e50412f6ece6c4f3a22446bc72a55590d4  Muse Percussion\Claves\Claves.spx
+3eda128ac1e47e2cdda0520de0c3bcb7f8b38ad6  Muse Percussion\Claves\SFZ\Claves.sts
+09409cc7f6906115ea66e2f3a11bfae554eafea8  Muse Percussion\Cowbell\Cowbell.spx
+304925f97afeadf5dafff00c0d0ac4f9c411864f  Muse Percussion\Cowbell\SFZ\Cowbell.sts
+dc3d80afa374eae22ba28a370ec58bb2bb51456a  Muse Percussion\Crotales\Crotales.spx
+7c1ea7f7dcd9258ad2dfb885473daacfd82e15fc  Muse Percussion\Crotales\SFZ\Crotales.sts
+6bb7330e09f455ce6fbe6d083f008410885bd8a3  Muse Percussion\Drum Kit\Drum Kit.spx
+4da135a42ae9aeedfecfb5be302201399da573f8  Muse Percussion\Drum Kit\SFZ\Drum Kit.sts
+7c4f4c7a4092c65e79f82c9b69385345c7af2d84  Muse Percussion\Field Drum\Field Drum.spx
+f9c067c865dd79a72485e28c7921725d8378e0e0  Muse Percussion\Field Drum\SFZ\Field Drum.sts
+beeb7951726ebba2c1b657af6f3d872527662e73  Muse Percussion\Glockenspiel\Glockenspiel.spx
+41fc054b265e06370e8388a609aeac4e0f6efe94  Muse Percussion\Glockenspiel\SFZ\Glockenspiel.sts
+844536c90d0663425516bcb645ecf3bb991182ca  Muse Percussion\Gong\Gong.spx
+e2df5c87c054906205e9cd7ccdade9973d043aab  Muse Percussion\Gong\SFZ\Gong.sts
+a531cdd8857c15b789360609e6589dafbf105f28  Muse Percussion\Marimba\Marimba.spx
+f9f8583b1e03f1fb8b8788a3d08811b352871fa3  Muse Percussion\Marimba\SFZ\Marimba.sts
+c7edd9d02a3d7ec66370e37d6beb16662ebf956f  Muse Percussion\Mark Tree\Mark Tree.spx
+1295344b3a843947593af8b398d1d90d42945aeb  Muse Percussion\Mark Tree\SFZ\Mark Tree.sts
+35abd31e7116872e9f2c067ae83315c800cec0cd  Muse Percussion\Metronome\Metronome.spx
+5ec558860502cccfd47ab722d496f536de46433a  Muse Percussion\Metronome\SFZ\Metronome.sts
+d817c63088d8420ebcfa415b0f48af59d59c2546  Muse Percussion\Piatti\Piatti.spx
+8eb2db12f9e6c7b1920f675603c1be7342b176af  Muse Percussion\Piatti\SFZ\Piatti.sts
+06e69ca4d3c3077feba896066771ff6e8bd59ac3  Muse Percussion\Shaker\Shaker.spx
+d367d6545bf4d8f7876ab17f1d7581a32fd91e69  Muse Percussion\Shaker\SFZ\Shaker.sts
+aaf37a1053209a0d98e050be49544fbc1b634243  Muse Percussion\Sleigh Bells\Sleigh Bells.spx
+c965ad63012049c9f8236ed0d4d732a44f646dc0  Muse Percussion\Sleigh Bells\SFZ\Sleigh Bells.sts
+b41839e2345dd40a3135a553298396970e5cb499  Muse Percussion\Snare\Snare.spx
+e192e74bea57827b000ec0be23df99a89dac0164  Muse Percussion\Snare\SFZ\Snare.sts
+9510998eb2c43243ec8bea6ea1f04f190870a109  Muse Percussion\Suspended Cymbal\Suspended Cymbal.spx
+9b60cee04dcac735aa9f55aa7c94bc2c8210ab9a  Muse Percussion\Suspended Cymbal\SFZ\Suspended Cymbal.sts
+098f80c47f7b2a9d5fa96fcedd57eceefdfef37b  Muse Percussion\Taikos\Taikos.spx
+b9fd14ca638a734decc22a2733d08d2986e2d5d3  Muse Percussion\Taikos\SFZ\Taikos.sts
+f3f59edb9dfd4be3f47feba75b9cda65eab7034b  Muse Percussion\Tam-Tam\Tam-Tam.spx
+4a459a845d7ad79b7b7667bf8e6eddebf2eb2f61  Muse Percussion\Tam-Tam\SFZ\Tam-Tam.sts
+0b9a30a2f24aab6b01c92b83c7aa6231347f3c59  Muse Percussion\Tambourine\Tambourine.spx
+e86e0c89270582d856e5c383c8a6e066e581de94  Muse Percussion\Tambourine\SFZ\Tambourine.sts
+aa6009b6c57752de004f811b9da8791accf52ec4  Muse Percussion\Timbales\Timbales.spx
+bc608314ed01a1da32dd575cb5ab21d96771701e  Muse Percussion\Timbales\SFZ\Timbales.sts
+80dcd26f4b1c006f35d1d4c69b66dcee8af40e3d  Muse Percussion\Timpani\Timpani.spx
+276ed958922576e5817ff59a1e2160538fef1509  Muse Percussion\Timpani\SFZ\Timpani.sts
+76d9c771c80204fb0483e76ab27e21d534a010cb  Muse Percussion\Toms\Toms.spx
+ee1c29f4e5cc0da75fa3469d77b4c31b78b91065  Muse Percussion\Toms\SFZ\Toms.sts
+96c0865ad7506e2b063e184b276481698b990231  Muse Percussion\Triangle\Triangle.spx
+8be6d6df16f0dd5961ec86e88943b0d625930d60  Muse Percussion\Triangle\SFZ\Triangle.sts
+19fbf1741930ab49ffce1fd3578844ac0228a17f  Muse Percussion\Tubular Bells\Tubular Bells.spx
+737178d1f59a361014eaa74a25db5bc11c559c03  Muse Percussion\Tubular Bells\SFZ\Tubular Bells.sts
+f8944e7e76551a7a17274f115a3905b04f82cbc9  Muse Percussion\Vibraphone\Vibraphone.spx
+0b653d6b2162860bf115aa2c8f9439676c8fd313  Muse Percussion\Vibraphone\SFZ\Vibraphone.sts
+f6befcac6ff207c6d06b2e00825c431cfbb1c31e  Muse Percussion\Woodblocks\Woodblocks.spx
+76a0ca925842831506437181c2eb9f7c71a562fe  Muse Percussion\Woodblocks\SFZ\Woodblocks.sts
+f71ea1a7f34ee018d89505eb683480947720b8b0  Muse Percussion\Xylophone\Xylophone.spx
+c8b585be2d55a875b05832f32b8b3b670ec7ca52  Muse Percussion\Xylophone\SFZ\Xylophone.sts
+1dc2d9f59a85f53f78d3eb74feaf8dc6c3af9b87  Muse Strings\Cello Solo\Cello Solo.spx
+a1e8345cf987e29c3297381dd9ceef8494b6e8ee  Muse Strings\Cello Solo\SFZ\Cello Solo.sts
+a953372a8cf2cc61eea3ce99bb7feb8d02d8732c  Muse Strings\Cellos\Cellos.spx
+e0bc3478f6626b9ada43b9463e8ae00dd2570913  Muse Strings\Cellos\SFZ\Cellos.sts
+b79007522a356fdc793b028528b50106a1951f01  Muse Strings\Contrabasses\Contrabasses.spx
+67aa397ac355ef5eed0ee2abd8292d8a5c51fa2d  Muse Strings\Contrabasses\SFZ\Contrabasses.sts
+bda01c365884e431494d5f1dc1abbdf901e97430  Muse Strings\Viola Solo\Viola Solo.spx
+349dcae4efe5e5c2bdd9c281d95004a4968f4969  Muse Strings\Viola Solo\SFZ\Viola Solo.sts
+888897aaaa3e4b84b1dda4a05ca3c27346341d86  Muse Strings\Violas\Violas.spx
+60359048f22ee4d64e29bce211b32949e6be93b2  Muse Strings\Violas\SFZ\Violas.sts
+cc613ed1d16c517f892bfbedaa66bed772d607c3  Muse Strings\Violin 1 Solo\Violin 1 Solo.spx
+d502e4a6fbbab3acfdd28d2bf8fcc6966ff1ad37  Muse Strings\Violin 1 Solo\SFZ\Violin 1 Solo.sts
+51ea890f1fcad6ab59de1b6a55d89594647d91ef  Muse Strings\Violin 2 Solo\Violin 2 Solo.spx
+fce165dd2673e05567de302ed8125e68620d93b7  Muse Strings\Violin 2 Solo\SFZ\Violin 2 Solo.sts
+7d42a0ebf70503b0715cb5e42ea471bd9b28989b  Muse Strings\Violins 1\Violins 1.spx
+345bd5e1726d331fe925246cd4d73444c4c41f0b  Muse Strings\Violins 1\SFZ\Violins 1.sts
+9a34d621b996fb151025c01be6498f747afafb2f  Muse Strings\Violins 2\Violins 2.spx
+71be48f3c649d60ea3d74dfc2d0c30399878a1d8  Muse Strings\Violins 2\SFZ\Violins 2.sts
+628a9ba583a351298cc34884ec6b033b9f916869  Muse Woodwinds\Alto Flute\Alto Flute.spx
+2dafb59a6c092d02bf92b994715c282268819840  Muse Woodwinds\Alto Flute\SFZ\Alto Flute.sts
+c9b0baff56ca840b46e14c06bbde651613e76782  Muse Woodwinds\Alto Saxophone\Alto Saxophone.spx
+38ab3a6a6f8734af3cb9cfa3a87ebecd28f53a39  Muse Woodwinds\Alto Saxophone\SFZ\Alto Saxophone.sts
+91a3558672a36839b5c443c06e08a5523ada8cf5  Muse Woodwinds\Baritone Saxophone\Baritone Saxophone.spx
+9a1949e59cd5cbd3466aef0e683c08699f8e4b5e  Muse Woodwinds\Baritone Saxophone\SFZ\Baritone Saxophone.sts
+237fbfb5e0055084d4754d94786f540558bc82e4  Muse Woodwinds\Bass Clarinet\Bass Clarinet.spx
+3ea8dbaae0320626256fb9d0f6176c9f8cd0e6ba  Muse Woodwinds\Bass Clarinet\SFZ\Bass Clarinet.sts
+8ad411c31da5be156a287ede93d7f0182336c88d  Muse Woodwinds\Bass Flute\Bass Flute.spx
+03354955128c5794b17ec35f3385c50ffd501ecc  Muse Woodwinds\Bass Flute\SFZ\Bass Flute.sts
+a06ed42f7aee97653f78c5b62845e7d0c0c11f24  Muse Woodwinds\Bassoon\Bassoon.spx
+ab6d26a54ad5cd531c9420098128a3f223cf0bec  Muse Woodwinds\Bassoon\SFZ\Bassoon.sts
+b40082c5e39a5c45e2e61c03018da733d07580b1  Muse Woodwinds\Clarinet in Bb\Clarinet in Bb.spx
+3b5f533aa22ad66e9c6320ed1a98241234efad1f  Muse Woodwinds\Clarinet in Bb\SFZ\Clarinet in Bb.sts
+b949e0333f6d69c013246ac6f2d4685a94b121ee  Muse Woodwinds\Clarinet in Eb\Clarinet in Eb.spx
+31009ba41325f9468d673e4b86b3ad9ac3903c1e  Muse Woodwinds\Clarinet in Eb\SFZ\Clarinet in Eb.sts
+b9779b3689577b6cd60dec78185bd6661d65f404  Muse Woodwinds\Contrabass Flute\Contrabass Flute.spx
+4c50726b642fd4c59ccf790f60e1a41f56bd86f4  Muse Woodwinds\Contrabass Flute\SFZ\Contrabass Flute.sts
+61368e2590a18f1c087ab7b152011a027994d184  Muse Woodwinds\Contrabassoon\Contrabassoon.spx
+28e0e256f3ae22e705f347eb54fbe712598340bc  Muse Woodwinds\Contrabassoon\SFZ\Contrabassoon.sts
+d3fb3fa7eec10000e03b0a21a440fb0d07119250  Muse Woodwinds\English Horn\English Horn.spx
+357b555745b3a598c7d2b556bd449efe8337259a  Muse Woodwinds\English Horn\SFZ\English Horn.sts
+e21d6c5b8bbbbf32b4ea8956a63e4c0c0aebd0fc  Muse Woodwinds\Flute 1\Flute 1.spx
+23fcd87bcdfb37d4b66255e9df2ebd2693a4f9c3  Muse Woodwinds\Flute 1\SFZ\Flute 1.sts
+759b3cedc2cf4cb27f4be7e65bca762787d1c882  Muse Woodwinds\Flute 2\Flute 2.spx
+b34b3c1a173bbc7458cbd7930077629925c443f9  Muse Woodwinds\Flute 2\SFZ\Flute 2.sts
+1ee773dc5dbf72a79c58837652f8ad187b7293b9  Muse Woodwinds\Oboe\Oboe.spx
+6581ff14cb4692962617784aee7c41dc583116e7  Muse Woodwinds\Oboe\SFZ\Oboe.sts
+d45ed330b46372c7abd7395552a21b3303babaf0  Muse Woodwinds\Piccolo\Piccolo.spx
+1b875ddc11f7f19649444b3724005a1eb3dfac71  Muse Woodwinds\Piccolo\SFZ\Piccolo.sts
+c41356b0a253199b2ac2b68cdc63cf5cdee2c8f3  Muse Woodwinds\Soprano Saxophone\Soprano Saxophone.spx
+ec75030e45a5c0012081a9202f6dd1681b205775  Muse Woodwinds\Soprano Saxophone\SFZ\Soprano Saxophone.sts
+0104db6378e601b060cbb62ad61c4e5319da409e  Muse Woodwinds\Tenor Saxophone\Tenor Saxophone.spx
+1ebf079716f31c2cdc5b55e07e5ffce04454ed1d  Muse Woodwinds\Tenor Saxophone\SFZ\Tenor Saxophone.sts
