@@ -1,9 +1,10 @@
 # read-decrypted-sfz.py
 # A demo script to read decrypted spx from MuseScore4 memory
-# Designed for Windows only, MuseSampler version 0.5.1
+# Designed for Windows only
 # Visit https://github.com/CarlGao4/Muse-Sounds for more information
 
 import frida
+import re
 import sys
 import threading
 
@@ -14,6 +15,8 @@ assert sys.platform == "win32", "This script is for Windows only"
 print_output = True
 # TODO: Output file name, set this to empty string if you don't want to save the output
 out_name = "decrypted.out"
+# TODO: Set this to False if you don't want to replace separator (\x00) with newline and a line of dashes
+replace_separator = True
 
 
 # Search for "F3 0F7F 0B" in MuseSamplerCoreLib.dll which follows "48 83 C3 10"
@@ -69,24 +72,46 @@ print(f"Using address: MuseSamplerCoreLib.dll+{addr_auto[2:]}")
 
 
 script_code = """
-Interceptor.attach(Module.findBaseAddress("MuseSamplerCoreLib.dll").add(%s), {
-    onEnter: function (args) {
-        const buf = ptr(this.context.rbx).readByteArray(16);
-        send("decode", buf);
-    }
-});
+(function () {
+    var last_addr = ptr("0x0");
+    Interceptor.attach(Module.findBaseAddress("MuseSamplerCoreLib.dll").add(%s), {
+        onEnter: function (args) {
+            var addr = ptr(this.context.rbx);
+            const buf = addr.readByteArray(16);
+            if (last_addr.equals(0x0) || last_addr.add(0x10).equals(addr) || addr.add(0xf0).equals(last_addr)) {
+                send("decode", buf);
+            }
+            else {
+                send("decode_new", buf);
+            }
+            last_addr = addr;
+        }
+    });
+})();
 """ % addr_auto
 out = b""
+has_end = True
+read_lock = threading.RLock()
 
 
 def on_message(message, data):
-    global out
-    if message["type"] == "send" and message["payload"] == "decode":
-        out += data
-        if print_output:
-            print(data.rstrip(b"\x00").decode("utf-8"), end="")
-            if data.endswith(b"\x00"):
-                print("\n" + "-" * 20)
+    global out, has_end
+    with read_lock:
+        if message["type"] == "send" and message["payload"].startswith("decode"):
+            if message["payload"] == "decode_new":
+                if not has_end:
+                    out += b"\x00"
+                    print("\n" + "-" * 20)
+            out += data
+            if print_output:
+                print(data.rstrip(b"\x00").decode("utf-8"), end="")
+                if data.endswith(b"\x00"):
+                    print("\n" + "-" * 20)
+                    has_end = True
+                else:
+                    has_end = False
+        else:
+            print(message, data, sep="\n", file=sys.stderr)
 
 
 script = session.create_script(script_code)
@@ -98,9 +123,13 @@ while True:
     if r == "q":
         break
     if out_name:
-        with open(out_name, mode="wb") as f:
-            f.write(out)
-        out = b""
+        with read_lock:
+            if replace_separator:
+                out = re.sub(b"\\x00+", b"\n" + b"-" * 20 + b"\n", out)
+            with open(out_name, mode="wb") as f:
+                f.write(out)
+            out = b""
+            has_end = True
 
 script.unload()
 session.detach()
